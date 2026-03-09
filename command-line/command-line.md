@@ -86,3 +86,6 @@
 
 - `logout` This command is specifically designed to terminate a login shell.
 
+> - `help <command>`: get help for a spcific "built-in shell command".
+> - `man <command>`: get a detailed information about some commands, which alredy provide a "man" files.
+> - `command -h | --help`: get information and how to use guide for a specific command, which already provide such these two flags | option.
